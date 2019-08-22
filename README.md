@@ -1,6 +1,6 @@
-# toryod
-Tor Yod React Native mobile app
-
+# React Native Sample App
+ React Native mobile app
+This is a Sample ecommerce App .
 ## Checklist 
 
 1. setup the react-native dev/debug env by reference [Dev Setup](#dev-setup)
