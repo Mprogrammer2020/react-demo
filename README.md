@@ -1,6 +1,6 @@
 # React Native Sample App
  This is React Native Sample e-commerce app to buy and sell products.
-.
+<p align="center"><img src="https://www.netsetsoftware.com/images2/logonetset.png"></p>
 ## Checklist 
 
 1. setup the react-native dev/debug env by reference [Dev Setup](#dev-setup)
