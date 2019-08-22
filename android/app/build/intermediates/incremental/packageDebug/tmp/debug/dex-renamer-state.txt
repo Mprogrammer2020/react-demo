@@ -1,0 +1,4 @@
+#Wed Aug 21 17:59:02 IST 2019
+base.0=/home/netset/Documents/React_native_Ankush/toryod/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

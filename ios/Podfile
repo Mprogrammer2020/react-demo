@@ -1,0 +1,72 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+
+
+
+target 'toryodSeller' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # NOTE, getting up and running those react related lib with Cocoapods can be a bit of a nightmare.
+  # ########## React Begin
+  # # Your 'node_modules' directory is probably in the root of your project,
+  # # but if not, adjust the `:path` accordingly
+  # pod 'React', :path => '../node_modules/react-native', :subspecs => [
+  #   'Core',
+  #   'CxxBridge', # Include this for RN >= 0.47
+  #   'DevSupport', # Include this to enable In-App Devmenu if RN >= 0.43
+  #   'RCTText',
+  #   'RCTNetwork',
+  #   'RCTWebSocket', # Needed for debugging
+  #   'RCTAnimation', # Needed for FlatList and animations running on native UI thread
+  #   # Add any other subspecs you want to use in your project
+  # ]
+  # # Explicitly include Yoga if you are using RN >= 0.42.0
+  # pod 'yoga', :path => '../node_modules/react-native/ReactCommon/yoga'
+  # # Third party deps podspec link
+  # pod 'DoubleConversion', :podspec => '../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec'
+  # pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
+  # pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
+  # ########## React Begin
+  
+  # ReactNativeFabric
+  # pod 'ReactNativeFabric', :path => '../node_modules/react-native-fabric'
+
+  # Pods for Fabric
+  pod 'Fabric'
+  pod 'Crashlytics'
+
+  # Pods for Firebase
+  pod 'Firebase/Core', '~> 5.11.0'
+  pod 'Firebase/DynamicLinks', '~> 5.11.0'
+  
+  pod 'FacebookSDK'
+  pod 'FBSDKShareKit'
+  pod 'FBSDKLoginKit'
+
+  pod 'GoogleSignIn'
+
+  # target 'toryodSeller-tvOSTests' do
+  #   inherit! :search_paths
+  #   # Pods for testing
+  # end
+
+  # target 'toryodSellerTests' do
+  #   inherit! :search_paths
+  #   # Pods for testing
+  # end
+
+end
+
+# target 'toryodSeller-tvOS' do
+#   # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+#   # use_frameworks!
+
+#   # Pods for toryodSeller-tvOS
+
+#   target 'toryodSeller-tvOSTests' do
+#     inherit! :search_paths
+#     # Pods for testing
+#   end
+
+# end

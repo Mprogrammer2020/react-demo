@@ -1,0 +1,5 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">LFEoCg31KW31ca7rGjw0eT2IpEhhSkSv_Q6nX</string>
+    <string name="app_name">toryodSeller</string>
+    <string name="facebook_app_id">195265188080081</string>
+</resources>

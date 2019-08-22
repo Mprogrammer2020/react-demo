@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "303287877158",
+    "firebase_url": "https://toryoddev.firebaseio.com",
+    "project_id": "toryoddev",
+    "storage_bucket": "toryoddev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303287877158:android:52db898deac916f8",
+        "android_client_info": {
+          "package_name": "com.toryodonline.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303287877158-l93ihd6l490p9a976j6sprqao2e3h89b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toryodonline.seller",
+            "certificate_hash": "ed85193680384f1d086aff4822912f3f670ef2c0"
+          }
+        },
+        {
+          "client_id": "303287877158-9hif7tmpmpb40gkubq2ujh8a6a740tjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCujX4sFiOjmqn6NTo0aH-6OX0SbJqrNkM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303287877158-9hif7tmpmpb40gkubq2ujh8a6a740tjn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303287877158-20t4ucjp0dj6utf5uvpgt7v3opq88pkp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.toryodonline.seller"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
