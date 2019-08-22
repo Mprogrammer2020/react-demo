@@ -1,5 +1,5 @@
 # React Native Sample App
- React Native Sample ecommerce App 
+ This is React Native Sample App. 
 .
 ## Checklist 
 
