@@ -1,6 +1,6 @@
 # React Native Sample App
- React Native mobile app
-This is a Sample ecommerce App .
+ React Native Sample ecommerce App 
+.
 ## Checklist 
 
 1. setup the react-native dev/debug env by reference [Dev Setup](#dev-setup)
